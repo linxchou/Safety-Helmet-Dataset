@@ -35,5 +35,5 @@ you can refer to the article in [CSDN](https://blog.csdn.net/weixin_45547895/art
 
 ## Demo
 
-![009064](C:\Users\45467\Desktop\Satety-Helmet-Dataset\images\image1_result.jpg)
+![009064](Satety-Helmet-Dataset\images\image1_result.jpg)
 
